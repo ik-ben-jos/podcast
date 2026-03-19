@@ -1,16 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Staalhard</title>
     <link>https://www.willy.radio/programmas/staalhard</link>
     <description>Staalhard episodes</description>
     <language>nl-be</language>
+    <image>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e1dbf03d-771b-4286-8efa-b40c00a11be7/image.jpg</url>
+      <title>Staalhard</title>
+      <link>https://www.willy.radio/programmas/staalhard</link>
+    </image>
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e1dbf03d-771b-4286-8efa-b40c00a11be7/image.jpg" />
     <item>
       <title>Staalhard met Jasper De Petter (12/03/2026)</title>
       <guid>e1dbf03d-771b-4286-8efa-b40c00a11be7</guid>
       <pubDate>Fri, 13 Mar 2026 09:58:09 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-12-03-2026</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e1dbf03d-771b-4286-8efa-b40c00a11be7/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e1dbf03d-771b-4286-8efa-b40c00a11be7/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (05/03/2026)</title>
@@ -18,6 +25,7 @@
       <pubDate>Fri, 06 Mar 2026 06:56:41 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-05-03-2026</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ea9904f5-9dda-420d-8759-b405006d01a5/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ea9904f5-9dda-420d-8759-b405006d01a5/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (26/02/2026)</title>
@@ -25,6 +33,7 @@
       <pubDate>Fri, 27 Feb 2026 09:44:05 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-26-02-2026</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0aa2ba1d-282e-45b9-a256-b3fe009d04f6/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0aa2ba1d-282e-45b9-a256-b3fe009d04f6/image.jpg" />
     </item>
     <item>
       <title>The History Of Belgian Metal met Jasper De Petter (12/02/2026)</title>
@@ -32,6 +41,7 @@
       <pubDate>Fri, 13 Feb 2026 10:29:07 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/the-history-of-belgian-metal-met-jasper-de-petter-12-02-2026</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4845c0c7-9ab6-4a6e-84ed-b3f000a69717/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4845c0c7-9ab6-4a6e-84ed-b3f000a69717/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (29/01/2026)</title>
@@ -39,6 +49,7 @@
       <pubDate>Fri, 30 Jan 2026 10:55:53 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-29-01-2026</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/25f56d33-3db1-4e71-aeeb-b3e200b1b588/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/25f56d33-3db1-4e71-aeeb-b3e200b1b588/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (22/01/2026)</title>
@@ -46,6 +57,7 @@
       <pubDate>Fri, 23 Jan 2026 09:32:52 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-22-01-2026</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/7d8215e7-bdd7-4503-b065-b3db009abfaa/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/7d8215e7-bdd7-4503-b065-b3db009abfaa/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (15/01/2026)</title>
@@ -53,6 +65,7 @@
       <pubDate>Fri, 16 Jan 2026 09:58:01 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-15-01-2026</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c77ab47e-8ca6-4374-b710-b3d400a1c777/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c77ab47e-8ca6-4374-b710-b3d400a1c777/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (08/01/2026)</title>
@@ -60,6 +73,7 @@
       <pubDate>Fri, 09 Jan 2026 09:23:15 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-08-01-2026</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8447b904-021e-4852-b230-b3cd009764a6/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8447b904-021e-4852-b230-b3cd009764a6/image.jpg" />
     </item>
     <item>
       <title>De Staalhard 100 met Jasper De Petter (2025): deel 2</title>
@@ -67,6 +81,7 @@
       <pubDate>Wed, 24 Dec 2025 17:31:28 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/de-staalhard-100-met-jasper-de-petter-2025-deel-2</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/6471f5f0-e732-4b6a-a4f8-b3bd011a46cd/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/6471f5f0-e732-4b6a-a4f8-b3bd011a46cd/image.jpg" />
     </item>
     <item>
       <title>De Staalhard 100 met Jasper De Petter (2025): deel 1</title>
@@ -74,6 +89,7 @@
       <pubDate>Wed, 24 Dec 2025 15:59:37 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/de-staalhard-100-met-jasper-de-petter-2025-deel-1</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/340202bc-b646-472b-a524-b3bd01013b96/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/340202bc-b646-472b-a524-b3bd01013b96/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (18/12/2025)</title>
@@ -81,6 +97,7 @@
       <pubDate>Fri, 19 Dec 2025 12:07:11 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-18-12-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0db09f53-bb04-4fda-bb40-b3b800bb6607/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0db09f53-bb04-4fda-bb40-b3b800bb6607/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (11/12/2025)</title>
@@ -88,6 +105,7 @@
       <pubDate>Thu, 11 Dec 2025 21:10:50 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-11-12-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d2fd3cb3-d28b-4aa3-b42f-b3b0015a89e0/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d2fd3cb3-d28b-4aa3-b42f-b3b0015a89e0/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (04/12/2025)</title>
@@ -95,6 +113,7 @@
       <pubDate>Fri, 05 Dec 2025 09:54:13 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-04-12-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/f70a754d-a90d-450c-8eb6-b3aa009e9784/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/f70a754d-a90d-450c-8eb6-b3aa009e9784/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (27/11/2025)</title>
@@ -102,6 +121,7 @@
       <pubDate>Fri, 28 Nov 2025 10:39:43 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-27-11-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/936ed314-e8f8-40fe-89a1-b3a300ac1f2f/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/936ed314-e8f8-40fe-89a1-b3a300ac1f2f/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (20/11/2025)</title>
@@ -109,6 +129,7 @@
       <pubDate>Fri, 21 Nov 2025 07:53:11 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-20-11-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/19e29d24-9ac2-4a87-ac50-b39c007b3768/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/19e29d24-9ac2-4a87-ac50-b39c007b3768/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (18/09/2025)</title>
@@ -116,6 +137,7 @@
       <pubDate>Thu, 20 Nov 2025 15:10:27 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-18-09-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9ab02bc6-b27c-4b81-b852-b39b00f5952d/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9ab02bc6-b27c-4b81-b852-b39b00f5952d/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (13/11/2025)</title>
@@ -123,6 +145,7 @@
       <pubDate>Fri, 14 Nov 2025 09:35:08 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-13-11-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a5f599d8-e1bc-4bd0-bb65-b39500969f8c/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a5f599d8-e1bc-4bd0-bb65-b39500969f8c/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (06/11/2025)</title>
@@ -130,6 +153,7 @@
       <pubDate>Fri, 07 Nov 2025 09:28:57 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-06-11-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e6fe003a-047b-4c74-9ee8-b38e0099ca62/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e6fe003a-047b-4c74-9ee8-b38e0099ca62/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (23/10/2025)</title>
@@ -137,6 +161,7 @@
       <pubDate>Fri, 24 Oct 2025 07:22:21 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-23-10-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8af961dc-bf72-445f-ad28-b38000753688/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8af961dc-bf72-445f-ad28-b38000753688/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (16/10/2025)</title>
@@ -144,6 +169,7 @@
       <pubDate>Fri, 17 Oct 2025 05:31:37 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-16-10-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9b29c6b7-b59b-4b88-b203-b379005878af/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9b29c6b7-b59b-4b88-b203-b379005878af/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (09/10/2025)</title>
@@ -151,6 +177,7 @@
       <pubDate>Fri, 10 Oct 2025 08:12:53 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-09-10-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/966a6af1-6d52-4e01-823d-b3720083f2d6/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/966a6af1-6d52-4e01-823d-b3720083f2d6/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (02/10/2025)</title>
@@ -158,6 +185,7 @@
       <pubDate>Fri, 03 Oct 2025 09:59:43 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-02-10-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/476f28ab-3d2c-44ca-8763-b36b00880513/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/476f28ab-3d2c-44ca-8763-b36b00880513/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (25/09/2025)</title>
@@ -165,6 +193,7 @@
       <pubDate>Fri, 26 Sep 2025 12:18:47 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-25-09-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0a288f51-9673-4357-b7bd-b36400c61adc/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0a288f51-9673-4357-b7bd-b36400c61adc/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (18/9/2025)</title>
@@ -172,6 +201,7 @@
       <pubDate>Fri, 19 Sep 2025 09:17:39 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-18-9-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ecaaf66e-1245-49b6-9c2e-b35d0094c0bc/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ecaaf66e-1245-49b6-9c2e-b35d0094c0bc/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (11/9/2025)</title>
@@ -179,6 +209,7 @@
       <pubDate>Thu, 11 Sep 2025 19:41:31 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-11-9-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/baa6d20c-2eb3-42ab-83c1-b355014102e1/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/baa6d20c-2eb3-42ab-83c1-b355014102e1/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Jasper De Petter (4/9/2025)</title>
@@ -186,6 +217,7 @@
       <pubDate>Fri, 05 Sep 2025 07:23:05 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-4-9-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/1f30d4b7-1096-484b-aeaa-b34f007654f0/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/1f30d4b7-1096-484b-aeaa-b34f007654f0/image.jpg" />
       <description>Vanaf nu wekelijks achter de microfoon bij Staalhard: Jasper De Petter!</description>
     </item>
     <item>
@@ -194,6 +226,7 @@
       <pubDate>Fri, 27 Jun 2025 14:47:46 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-giel-vanthournout-26-06-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/82266d44-2736-4c53-ad9d-b30900975ad3/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/82266d44-2736-4c53-ad9d-b30900975ad3/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Giel Vanthournout (19/06/2025)</title>
@@ -201,6 +234,7 @@
       <pubDate>Fri, 20 Jun 2025 16:00:49 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-giel-vanthournout-19-06-2025</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ef384409-18a0-419a-9ef8-b30201051b75/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ef384409-18a0-419a-9ef8-b30201051b75/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Andries Beckers (12/06 19u)</title>
@@ -208,6 +242,7 @@
       <pubDate>Fri, 13 Jun 2025 08:55:05 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-12-06-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8b3d403a-2d0b-4175-9dde-b2fb0090c6c2/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8b3d403a-2d0b-4175-9dde-b2fb0090c6c2/image.jpg" />
       <description>Gojira - Another World
 Killswitch Engage - Blood Upon The Ashes
 Airbourne - Gutsy
@@ -238,6 +273,7 @@ Megadeth - A Tout Le Monde</description>
       <pubDate>Fri, 06 Jun 2025 08:41:03 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-05-06-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/56775042-8002-4a1f-a680-b2f4008b8316/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/56775042-8002-4a1f-a680-b2f4008b8316/image.jpg" />
       <description>The Bouncing Souls - True Believers
 Turbonegro - All My Friends are dead 
 E Town Concrete - Mandibles
@@ -262,6 +298,7 @@ Anxious - Counting Sheep</description>
       <pubDate>Fri, 23 May 2025 09:40:40 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-22-05-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9a81292f-54ce-4757-8742-b2e6009cc52c/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9a81292f-54ce-4757-8742-b2e6009cc52c/image.jpg" />
       <description>Vandaag een vooruitblik op de affiche van Alcatraz Open Air!
 
 Mastodon - Blood &amp; Thunder
@@ -297,6 +334,7 @@ Candlemass - Solitude</description>
       <pubDate>Fri, 16 May 2025 07:29:15 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-16-mei-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/f1c6b15c-dfb7-42db-8bf5-b2df00794168/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/f1c6b15c-dfb7-42db-8bf5-b2df00794168/image.jpg" />
       <description>Vandaag de Graspop 2025 Special met alleen maar die bands die binnenkort naar Dessel trekken.
 
 Nine Inch Nails - March of the Pigs
@@ -330,6 +368,7 @@ Slipknot - Duality</description>
       <pubDate>Thu, 08 May 2025 22:46:53 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-en-alkerdeel-08-05-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2ce30fa4-d76f-4c9d-8157-b2d70171281b/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2ce30fa4-d76f-4c9d-8157-b2d70171281b/image.jpg" />
       <description>Vandaag in goed gezelschap met de heren van Alkdereel. Zij bestaan dit jaar 20 jaar en kiezen bijna alle platen.
 
 After All - Restless is the night
@@ -357,6 +396,7 @@ Alkerdeel - Zop
       <pubDate>Thu, 24 Apr 2025 19:15:29 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-24-04-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ca67ec30-20e4-4a39-ab63-b2c901372c1d/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ca67ec30-20e4-4a39-ab63-b2c901372c1d/image.jpg" />
       <description>Judas Priest - Night Crawler
 Biohazard - Down For Life
 Ghost - Peacefield
@@ -387,6 +427,7 @@ Deftones - Diamond Eyes</description>
       <pubDate>Thu, 27 Mar 2025 20:22:51 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-27-03-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/486eefa3-ac4f-419c-9eae-b2ad014a4db3/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/486eefa3-ac4f-419c-9eae-b2ad014a4db3/image.jpg" />
       <description>The Haunted - Warhead
 Bloodywood - Kismat
 Ghost - Ritual
@@ -418,6 +459,7 @@ Cowboys &amp; Aliens - Icy Grip</description>
       <pubDate>Thu, 20 Mar 2025 20:27:34 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-en-amenra-20-03-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2060863f-cc62-46c4-bd0f-b2a6014b971d/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2060863f-cc62-46c4-bd0f-b2a6014b971d/image.jpg" />
       <description>Colin and nieuwe bassiste Amy Tung Barrysmith kwamen tijdens uur 1 langs in de studio om hun nieuwe EP's voor te stellen en ze brachten uiteraard ook goeie platen mee.
 
 
@@ -446,6 +488,7 @@ Foreigner - Hot Blooded</description>
       <pubDate>Thu, 13 Mar 2025 20:16:39 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-13-03-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2a8de608-50d7-4214-9b9f-b29f0149ac25/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2a8de608-50d7-4214-9b9f-b29f0149ac25/image.jpg" />
       <description>Volbeat - By a Monster’s Hand
 Ghost - Satanized
 Smith/Kotzen - White Noise
@@ -475,6 +518,7 @@ Sleep Token - Emergence</description>
       <pubDate>Thu, 20 Feb 2025 20:15:47 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-20-02-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/40855143-05a1-4f52-b183-b28a014a3ae8/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/40855143-05a1-4f52-b183-b28a014a3ae8/image.jpg" />
       <description>Machine Head - Unbound
 Sun Don't Shine - The Promise Song
 Wednesday 13 - When The Devil Commands
@@ -504,6 +548,7 @@ Black Sabbath -  The Sign of The Southern cross</description>
       <pubDate>Thu, 13 Feb 2025 20:38:57 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-13-02-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/157679f9-1087-41f2-a96a-b283015020f0/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/157679f9-1087-41f2-a96a-b283015020f0/image.jpg" />
       <description>Alien Weaponry - Mau Moko
 Arch Enemy - Paper Tiger
 Meshuggah - Neurotica
@@ -534,6 +579,7 @@ Jethro Tull - The Tipu House</description>
       <pubDate>Fri, 07 Feb 2025 17:16:25 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-06-02-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e2149c0a-7518-439a-ac0b-b27d0119676c/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e2149c0a-7518-439a-ac0b-b27d0119676c/image.jpg" />
       <description>Deel 2 van de week van de Belgische Muziek.
 
 Ostrogoth - Too Hot
@@ -570,6 +616,7 @@ Front 242 - Religion
       <pubDate>Fri, 31 Jan 2025 10:00:34 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-30-01-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/359dd724-31d4-4d7d-b00f-b276009fd803/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/359dd724-31d4-4d7d-b00f-b276009fd803/image.jpg" />
       <description>De week van de Belgische Muziek is bij Staalhard 2 weken alleen Belgische metalbands.
 
 1.Channel Zero - Repetition
@@ -603,6 +650,7 @@ Front 242 - Religion
       <pubDate>Thu, 23 Jan 2025 20:09:47 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-23-01-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/476d7152-83de-48e5-aec6-b26e0143f32b/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/476d7152-83de-48e5-aec6-b26e0143f32b/image.jpg" />
       <description>Paradise Lost - Hallowed Land
 Fear Factory - Edgecrusher
 Architects - Blackhole
@@ -632,6 +680,7 @@ Nine Inch Nails - The Perfect Drug</description>
       <pubDate>Fri, 17 Jan 2025 08:42:02 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-17-01-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0cd409ed-7661-4fd7-853c-b268008c7263/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0cd409ed-7661-4fd7-853c-b268008c7263/image.jpg" />
       <description>Probot - Red War
 Prong - Revenge...served cold
 The Halo Effect - Cruel Perception
@@ -666,6 +715,7 @@ W.A.S.P. - Wild Child</description>
       <pubDate>Sat, 11 Jan 2025 12:05:28 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-09-01-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/fbec5483-5f94-4569-9a01-b26200c49d3c/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/fbec5483-5f94-4569-9a01-b26200c49d3c/image.jpg" />
       <description>Pantera -I am Broken
 King Diamond - Spider Lilly
 Black Sabbath - God Is Dead
@@ -695,6 +745,7 @@ Lords of Acid - I sit on Acid</description>
       <pubDate>Thu, 19 Dec 2024 20:00:00 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-100-met-andries-beckers-19-12-2024</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b26e221b-797f-4075-8973-b24b00ad0b55/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b26e221b-797f-4075-8973-b24b00ad0b55/image.jpg" />
       <description>Avenged Sevenfold - Hail to the King
 Mastodon - Oblivion
 Gaupa - Heavy Lord
@@ -726,6 +777,7 @@ Wardruna - Birna
       <pubDate>Fri, 13 Dec 2024 14:14:15 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-12-12-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/814fd468-ccee-43bd-b104-b24500e7841c/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/814fd468-ccee-43bd-b104-b24500e7841c/image.jpg" />
       <description>Ghost - Watcher In The Sky
 Kvelertak - Crack of Doom (feat. Troy Sanders)
 Arch Enemy - Blood Dynasty
@@ -758,6 +810,7 @@ Rush - Tom Sawyer </description>
       <pubDate>Fri, 06 Dec 2024 10:01:48 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-05-12-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/886b867c-24f4-47aa-9ad8-b23d00d9fe74/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/886b867c-24f4-47aa-9ad8-b23d00d9fe74/image.jpg" />
       <description>Parkway Drive - The Void
 Gojira - L'enfant Sauvage
 While She Sleeps - Self Hell
@@ -786,6 +839,7 @@ Thurisaz - The Veil</description>
       <pubDate>Thu, 28 Nov 2024 20:12:08 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-28-11-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/36feaa57-4445-4397-bded-b23601470e38/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/36feaa57-4445-4397-bded-b23601470e38/image.jpg" />
       <description>Body Count - Merciless
 Architects - Whiplash
 Red Fang - Prehistoric Dog
@@ -816,6 +870,7 @@ Danzig - Dirty Black Summer</description>
       <pubDate>Thu, 21 Nov 2024 20:10:30 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-21-11-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/556c50ad-6c63-46f6-886b-b22f013aa32c/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/556c50ad-6c63-46f6-886b-b22f013aa32c/image.jpg" />
       <description>Killswitch Engage - Forever Aligned
 Iron Maiden - The Wicker Man
 Machine Head, In Flames &amp; Lacuna Coil - These Scars Won't Define Us
@@ -847,6 +902,7 @@ Behemoth - The Satanist</description>
       <pubDate>Thu, 14 Nov 2024 20:27:43 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-14-11-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a0a1577e-b4d1-490e-a2a7-b228014b54ef/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a0a1577e-b4d1-490e-a2a7-b228014b54ef/image.jpg" />
       <description>Slipknot - Left Behind
 Brutus - The Deadly Rhythm
 King Buffalo - Balrog
@@ -876,6 +932,7 @@ White Zombie - More Human than Human </description>
       <pubDate>Fri, 08 Nov 2024 09:40:25 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-08-11-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/88cc6d46-2632-4582-92b1-b222009d9fdf/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/88cc6d46-2632-4582-92b1-b222009d9fdf/image.jpg" />
       <description>Megadeth - A Tout le Monde
 Testament - Time Is Coming
 VOLA - We Will Not Disband
@@ -905,6 +962,7 @@ Corecass - Glijd Mee (feat. Colin H. van Eeckhout) </description>
       <pubDate>Thu, 24 Oct 2024 19:13:55 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-24-10-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/45355038-d39b-43ae-bd0e-b21301341de8/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/45355038-d39b-43ae-bd0e-b21301341de8/image.jpg" />
       <description>Iron Maiden - Murders In the Rue Morgue
 Arch Enemy - Liars &amp; Thieves
 Grand Magus - Sunraven
@@ -936,6 +994,7 @@ Iron Maiden - Killers</description>
       <pubDate>Thu, 17 Oct 2024 19:14:01 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-17-10-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c3560bc3-bccd-4c26-9858-b20c0137cfa0/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c3560bc3-bccd-4c26-9858-b20c0137cfa0/image.jpg" />
       <description>Monster Magnet - Negasonic Teenage Warhead
 Deftones - Diamond Eyes
 As I Lay Dying - Whitewashed Tomb
@@ -969,6 +1028,7 @@ Black Sabbath - Sweet Leaf</description>
       <pubDate>Thu, 10 Oct 2024 19:10:43 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-10-10-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a6dc7240-f26d-4514-bcea-b2050138d274/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a6dc7240-f26d-4514-bcea-b2050138d274/image.jpg" />
       <description>Opgedragen aan Christophe Hiel aka Bokke aka Verderf van de band Verloren
 
 Megadeth - Peace sells...but who's buying
@@ -1003,6 +1063,7 @@ Rollins Band - Liar</description>
       <pubDate>Thu, 03 Oct 2024 19:08:36 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-03-10-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c8118ade-521d-49cf-a00b-b1fe01396ea8/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c8118ade-521d-49cf-a00b-b1fe01396ea8/image.jpg" />
       <description>Type O Negative - Be My Druidess
 Serj Tankian - Justice Will Shine On
 High Parasite - Let It Fail
@@ -1033,6 +1094,7 @@ Mastodon - Curl of the Burl</description>
       <pubDate>Thu, 26 Sep 2024 19:14:26 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-26-09-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/09224201-b042-4222-bfec-b1f701363aa3/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/09224201-b042-4222-bfec-b1f701363aa3/image.jpg" />
       <description>Devin Townsend - Jainism
 Vended - Where the Honesty Lies
 Hangman's Chair - Cold and Distant
@@ -1064,6 +1126,7 @@ Body Count - comfortably numb</description>
       <pubDate>Thu, 19 Sep 2024 19:07:55 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-19-09-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/fcae3e7e-52c0-4f60-8591-b1f00137e32b/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/fcae3e7e-52c0-4f60-8591-b1f00137e32b/image.jpg" />
       <description>As I Lay Dying - We Are The Dead (feat. Alex Terrible, Tom Barber)
 Hermano - Breathe
 Jinjer - Rogue
@@ -1094,6 +1157,7 @@ Tiamat - Whatever That Hurts</description>
       <pubDate>Thu, 12 Sep 2024 19:10:54 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-12-09-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e30b61a8-4534-4e4f-a097-b1e9012e82f1/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e30b61a8-4534-4e4f-a097-b1e9012e82f1/image.jpg" />
       <description>Many Eyes - Revelation
 Spiritbox - Soft Spine
 Black Label Society - The Gallows
@@ -1125,6 +1189,7 @@ Heilung - Norupo</description>
       <pubDate>Thu, 05 Sep 2024 19:10:02 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-05-09-24</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/3f428498-0320-4280-9d5b-b1e201384b71/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/3f428498-0320-4280-9d5b-b1e201384b71/image.jpg" />
       <description>De eerste van het seizoen!
 
 Gojira - Mea Culpa (Ah! Ça ira!)
@@ -1158,6 +1223,7 @@ De Mannen Broeders - Grafschrift</description>
       <pubDate>Thu, 27 Jun 2024 19:00:00 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-24-6-2024-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c60846ec-1911-4fcd-b095-b19c0082fa42/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c60846ec-1911-4fcd-b095-b19c0082fa42/image.jpg" />
       <description>Ghost - The Future Is A Foreign Land
 Dark Tranquility - Not Nothing 
 VOLA - Break My Lying Tongue
@@ -1192,6 +1258,7 @@ Iron Maiden - Wasted Years</description>
       <pubDate>Fri, 21 Jun 2024 11:36:12 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-20-6-2024</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2d899f72-4a75-42a3-a6dc-b19600bb183e/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2d899f72-4a75-42a3-a6dc-b19600bb183e/image.jpg" />
       <description>All That Remains - Let you Go
 Amon Amarth - The Pursuit of Vikings
 Bleed from Within - Hands Of Sin
@@ -1223,6 +1290,7 @@ Opeth - In My Time of Need</description>
       <pubDate>Fri, 14 Jun 2024 08:16:02 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-13-06-24-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/fae85347-2d33-44c6-914d-b18f0086da74/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/fae85347-2d33-44c6-914d-b18f0086da74/image.jpg" />
       <description>Fear Factory - New Breed
 Pantera - Yesterday Don't Mean Shit
 Clutch - Profits of Doom
@@ -1254,6 +1322,7 @@ Puscifer - The Remedy</description>
       <pubDate>Thu, 06 Jun 2024 19:04:19 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-06-06-24-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2162ff32-2a47-40b5-91bd-b1870137aa4e/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2162ff32-2a47-40b5-91bd-b1870137aa4e/image.jpg" />
       <description>Slayer - Disciple
 Megadeth - Reckoning Day
 Black Sabbath - Get a Grip
@@ -1282,6 +1351,7 @@ CHVE - Eternit</description>
       <pubDate>Thu, 30 May 2024 19:12:03 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-30-05-24-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/eee7535c-03a3-45fa-bdc5-b1800138054d/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/eee7535c-03a3-45fa-bdc5-b1800138054d/image.jpg" />
       <description>Machine Head - Death Church
 
 Zeal &amp; Ardor - Clawing Out
@@ -1330,6 +1400,7 @@ Heilung - Traust (LIVE)</description>
       <pubDate>Thu, 23 May 2024 19:05:56 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-23-05-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/dac44a05-3ba6-4665-b55f-b179012c8b8a/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/dac44a05-3ba6-4665-b55f-b179012c8b8a/image.jpg" />
       <description>As I Lay Dying- Burden
 Body Count - Psychopath
 Arch Enemy - House of Mirrors
@@ -1364,6 +1435,7 @@ Kiss - Sure Know Something </description>
       <pubDate>Tue, 21 May 2024 08:18:20 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/de-festival-100-met-andries-beckers-en-roos-van-2</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d70f4cd5-f215-469a-bafd-b17700858db3/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d70f4cd5-f215-469a-bafd-b17700858db3/image.jpg" />
     </item>
     <item>
       <title>De Festival 100 met Andries Beckers en Roos Van Acker: deel 1</title>
@@ -1371,6 +1443,7 @@ Kiss - Sure Know Something </description>
       <pubDate>Tue, 21 May 2024 08:07:04 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/de-festival-100-met-andries-beckers-en-roos-van-1</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/cab6f40e-1322-46df-a539-b1770081b35e/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/cab6f40e-1322-46df-a539-b1770081b35e/image.jpg" />
     </item>
     <item>
       <title>De Festival 100 met Andries Beckers en Roos Van Acker: deel 2</title>
@@ -1378,6 +1451,7 @@ Kiss - Sure Know Something </description>
       <pubDate>Tue, 21 May 2024 08:07:02 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/de-festival-100-met-andries-beckers-en-roos-van-ac</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/945c4b48-95cd-41e3-94f2-b17700827f82/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/945c4b48-95cd-41e3-94f2-b17700827f82/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Andries Beckers (16/05 19u)</title>
@@ -1385,6 +1459,7 @@ Kiss - Sure Know Something </description>
       <pubDate>Thu, 16 May 2024 19:28:23 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-16-05-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c4c18abf-4199-4817-90cf-b172013ec5ba/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c4c18abf-4199-4817-90cf-b172013ec5ba/image.jpg" />
       <description>RIP RONNIE JAMES DIO TIJDENS DEZE UITZENDING EXACT 14 JAAR GELEDEN
 
 Dio - Don't Talk To Strangers
@@ -1417,6 +1492,7 @@ Ronker - Slow Murder</description>
       <pubDate>Thu, 02 May 2024 20:45:51 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-02-05-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e2f7da91-ae58-4998-bf33-b1640154ace7/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e2f7da91-ae58-4998-bf33-b1640154ace7/image.jpg" />
       <description>Slipknot - (Sic)
 Knocked Loose feat. Poppy - Suffocate 
 W.A.S.P. - Arena Of Pleasure
@@ -1446,6 +1522,7 @@ Unto Others - Butterfly</description>
       <pubDate>Thu, 25 Apr 2024 22:16:07 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-25-04-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/07affaae-9646-40f7-a70b-b15d016d0d81/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/07affaae-9646-40f7-a70b-b15d016d0d81/image.jpg" />
       <description>Black Sabbath - Children of the Sea
 Lamb of God - Omerta
 Zeal &amp; Ardor - To my ilk
@@ -1477,6 +1554,7 @@ My Dying Bride - Her dominion</description>
       <pubDate>Thu, 18 Apr 2024 19:07:33 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-18-04-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8926cdef-d132-4956-856b-b1560135ff26/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8926cdef-d132-4956-856b-b1560135ff26/image.jpg" />
       <description>Fu Manchu - Hands of the Zodiac
 Kerry King - Residue
 Architects - Curse
@@ -1508,6 +1586,7 @@ Cobra The Impaler - The Message</description>
       <pubDate>Thu, 21 Mar 2024 21:36:09 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-21-03-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2254e83f-0fa6-4160-862b-b13a016128af/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2254e83f-0fa6-4160-862b-b13a016128af/image.jpg" />
       <description>Grand Magus - Hammer of The North
 Corrosion of Conformity - Vote With a Bullet
 Dark Tranquility - The Last Imagination
@@ -1540,6 +1619,7 @@ My Lament - Dying of The Light </description>
       <pubDate>Thu, 14 Mar 2024 20:49:21 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-stake-special-met-andries-beckers-14-03</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b26b35bf-516f-4c8f-b751-b133015506b9/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b26b35bf-516f-4c8f-b751-b133015506b9/image.jpg" />
       <description>Vandaag kiezen de mannen van STAKE de platen n.a.v. hun jubileum show die aangekondigd voor 1 november 2024 in Kortrijk. Alle tickets via stakeband.com
 
 Stake - Fuck My Anxiety 
@@ -1568,6 +1648,7 @@ Stake - The Calling</description>
       <pubDate>Fri, 08 Mar 2024 07:18:22 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-07-03-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0cec1d85-ace4-4cd7-a670-b12d0075b312/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0cec1d85-ace4-4cd7-a670-b12d0075b312/image.jpg" />
       <description>Anthrax - Among The Living
 Ministry - New Religion
 Erra - Cure 
@@ -1598,6 +1679,7 @@ NIN - We're in this Together</description>
       <pubDate>Thu, 29 Feb 2024 23:49:36 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-29-02-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9a0f0edb-5bdd-457e-a8c3-b1250186a0a8/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9a0f0edb-5bdd-457e-a8c3-b1250186a0a8/image.jpg" />
       <description>Judas Priest - The Serpent And The King
 Bruce Dickinson - Rain on the Graves
 Alcest - L'Envol
@@ -1630,6 +1712,7 @@ Slipknot - Sulfur</description>
       <pubDate>Thu, 22 Feb 2024 20:18:26 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-22-02-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b252884e-de18-41fd-9e23-b11e014acd31/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b252884e-de18-41fd-9e23-b11e014acd31/image.jpg" />
       <description>Slayer - Seasons in the Abyss 
 My Dying Bride - Thornwyck Hymn
 Danzig - Devil's Plaything
@@ -1660,6 +1743,7 @@ Slayer - Postmortem</description>
       <pubDate>Thu, 08 Feb 2024 20:16:47 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-08-02-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/70a005a3-af0c-403d-9aa0-b1100149b8c5/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/70a005a3-af0c-403d-9aa0-b1100149b8c5/image.jpg" />
       <description>Kerry King - Idle Hands
 Judas Priest - Crown of Horns
 Mutually Assured Destruction - Spirit Liberation
@@ -1693,6 +1777,7 @@ Danzig - How The Gods Kill</description>
       <pubDate>Thu, 01 Feb 2024 20:19:52 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-01-02-24-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5e31073d-38ca-4f78-8dd0-b109014d23dc/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5e31073d-38ca-4f78-8dd0-b109014d23dc/image.jpg" />
       <description>Belofte maakt schuld dus bij deze nog een weekje enkel Belgische Bands.
 
 Cowboys and Aliens - Find You Soon
@@ -1726,6 +1811,7 @@ Oathbreaker - Immortals</description>
       <pubDate>Thu, 25 Jan 2024 20:24:43 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-week-van-de-belgisch</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/26f0040c-48ea-40e0-824b-b102014770d6/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/26f0040c-48ea-40e0-824b-b102014770d6/image.jpg" />
       <description>Acid - Max Overload
 
 .Calibre - Calibre
@@ -1784,6 +1870,7 @@ Amenra - .From Birth To Grave. From Shadow To Light.</description>
       <pubDate>Thu, 18 Jan 2024 20:08:27 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-18-01-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c7e4c44c-07f3-4d95-8e0b-b0fb014a0490/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c7e4c44c-07f3-4d95-8e0b-b0fb014a0490/image.jpg" />
       <description>Mastodon - The Motherload 
 Korn - Forgotten 
 White Zombie - More Human Than Human 
@@ -1815,6 +1902,7 @@ Iron Maiden - The Wicker Man</description>
       <pubDate>Thu, 11 Jan 2024 20:08:41 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-11-01-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5a03fc12-5690-47a7-86bd-b0f40149665d/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5a03fc12-5690-47a7-86bd-b0f40149665d/image.jpg" />
       <description>De eerste van 2023! De Beste wensen en wees welkom elke donderdag om 19u op Willy
 
 
@@ -1870,6 +1958,7 @@ Doodseskader - I Ask with My Mouth, I'll Take with My Fist</description>
       <pubDate>Thu, 04 Jan 2024 20:51:08 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/the-best-of-staalhard-2023-met-andries-beckers-04</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/561d31da-b6a0-4e6d-8e5e-b0ed0154f176/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/561d31da-b6a0-4e6d-8e5e-b0ed0154f176/image.jpg" />
       <description>Green Lung - Hunters in The Sky 
 
 Spirit Box - Jaded 
@@ -1930,6 +2019,7 @@ Brutus - Love Won't Hide the Ugliness</description>
       <pubDate>Thu, 21 Dec 2023 20:06:40 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-21-12-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b236086b-e5f9-4d75-8b3f-b0df013f25e2/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b236086b-e5f9-4d75-8b3f-b0df013f25e2/image.jpg" />
       <description>De laatste "gewone" aflevering van 2023
 
 1.Deftones - Bored
@@ -1963,6 +2053,7 @@ Brutus - Love Won't Hide the Ugliness</description>
       <pubDate>Thu, 14 Dec 2023 20:07:49 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-14-12-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a22c3b9b-70cb-4d81-93f1-b0d801498368/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a22c3b9b-70cb-4d81-93f1-b0d801498368/image.jpg" />
       <description>Manowar - Kings of Metal
 
 Amon Amarth - Twilight of the Thunder God 
@@ -2017,6 +2108,7 @@ Elder - Endless Return</description>
       <pubDate>Fri, 08 Dec 2023 12:43:18 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-7-12-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/16861ab4-8ead-4804-8f1a-b0d200cec3f9/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/16861ab4-8ead-4804-8f1a-b0d200cec3f9/image.jpg" />
       <description>Bruce Dickinson - Afterglow Of Ragnarok 
 
 Architects - Seeing Red 
@@ -2072,6 +2164,7 @@ Amenra - .razoreater.</description>
       <pubDate>Thu, 30 Nov 2023 22:40:29 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-30-11-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0f5ac77f-52b8-44e5-a3fc-b0ca0144acea/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0f5ac77f-52b8-44e5-a3fc-b0ca0144acea/image.jpg" />
       <description>White Zombie - More Human than Human
 Islander - Witch
 Unto Others - It Doesn't Really Matter
@@ -2103,6 +2196,7 @@ Apocalyptica - Bittersweet (Live in Helsinki St. John's Church)</description>
       <pubDate>Thu, 23 Nov 2023 20:18:10 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-23-11-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/67f5229a-78ad-405e-9975-b0c3014b6bff/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/67f5229a-78ad-405e-9975-b0c3014b6bff/image.jpg" />
       <description>Carcass - Buried Dreams
 Saxon - Hell, Fire And Damnation
 Channel Zero - Heroin
@@ -2134,6 +2228,7 @@ Angelwitch - Angelwitch</description>
       <pubDate>Fri, 17 Nov 2023 10:37:35 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-16-11-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/472175f2-985a-40f9-ba0f-b0bd00aa8c24/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/472175f2-985a-40f9-ba0f-b0bd00aa8c24/image.jpg" />
       <description>Paradise Lost - Embers Fire
 Sorcerer - Morning Star 
 Slayer - Mandatory Suicide
@@ -2164,6 +2259,7 @@ Pruillip - Place All your Cards</description>
       <pubDate>Thu, 09 Nov 2023 20:16:46 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-09-11-23-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4dfb1994-3ad4-4e95-a16e-b0b5014c41f9/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4dfb1994-3ad4-4e95-a16e-b0b5014c41f9/image.jpg" />
       <description>Anthrax - Only
 Spiritbox - Jaded
 Doro - Time for Justice
@@ -2193,6 +2289,7 @@ Carnation - Maruta</description>
       <pubDate>Thu, 26 Oct 2023 19:26:39 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-26-10-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c59fcd6b-57c8-4137-8412-b0a70137fc18/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c59fcd6b-57c8-4137-8412-b0a70137fc18/image.jpg" />
     </item>
     <item>
       <title>Staalhard met Andries Beckers (19/10/23 19u)</title>
@@ -2200,6 +2297,7 @@ Carnation - Maruta</description>
       <pubDate>Fri, 20 Oct 2023 08:59:52 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-19-10-23-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d4d68072-a21e-49ef-a26f-b0a10091c7ac/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d4d68072-a21e-49ef-a26f-b0a10091c7ac/image.jpg" />
       <description>Judas Priest - Panic Attack
 Of Mice And Men - Warpaint
 Tallah - Hard Knock
@@ -2233,6 +2331,7 @@ Alice In Chains - Stone</description>
       <pubDate>Thu, 05 Oct 2023 20:52:48 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-05-10-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b8d11391-b252-42bd-b586-b09201564e14/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b8d11391-b252-42bd-b586-b09201564e14/image.jpg" />
       <description>The Dillinger Escape Plan - Black Bubblegum
 Primordial - Victory Has 1000 Fathers, Defeat Is an Orphan
 Annihilator - Alison Hell
@@ -2267,6 +2366,7 @@ S.O.D. - March of the S.O.D.</description>
       <pubDate>Thu, 28 Sep 2023 20:34:19 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-28-09-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e0c7dad0-ce2d-42eb-9696-b08b01505ef9/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e0c7dad0-ce2d-42eb-9696-b08b01505ef9/image.jpg" />
       <description>Type O Negative - Everyone I Know Is Dead
 
 Lamb Of God - Omerta
@@ -2323,6 +2423,7 @@ Black Sabbath - The Mob Rules</description>
       <pubDate>Thu, 21 Sep 2023 19:25:18 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-21-09-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/330d7556-d584-424a-84c0-b084013cd144/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/330d7556-d584-424a-84c0-b084013cd144/image.jpg" />
       <description>Baroness - Anodyne
 In Flames - Meet Your Maker
 Dark Tranquility - Phantom Days
@@ -2355,6 +2456,7 @@ The Bridge City Sinners - Through and Through</description>
       <pubDate>Thu, 14 Sep 2023 19:15:55 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-14-09-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b1d864d7-cd29-4812-9f7b-b07d013abf5d/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b1d864d7-cd29-4812-9f7b-b07d013abf5d/image.jpg" />
       <description>While She Sleeps - Self Hell
 Cirith Ungol - Velocity (S.E.P.)
 Sylosis - Descent
@@ -2387,6 +2489,7 @@ Carnation - Metropolis</description>
       <pubDate>Thu, 07 Sep 2023 19:09:44 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-07-09-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/cfdabecd-759b-41c1-90ca-b07601339a33/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/cfdabecd-759b-41c1-90ca-b07601339a33/image.jpg" />
       <description>1.Killswitch Engage - Rose of Sharyn
 
 2.Kvelertak - Endling
@@ -2441,6 +2544,7 @@ Carnation - Metropolis</description>
       <pubDate>Thu, 31 Aug 2023 19:11:42 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-31-08-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2f7494e6-ec84-4d5e-847a-b06f01368be1/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2f7494e6-ec84-4d5e-847a-b06f01368be1/image.jpg" />
       <description>Staalhard is back. Nieuw seizoen en heel veel goesting.
 
 
@@ -2453,6 +2557,7 @@ Biohazard Chamber Spins Three // Baroness Shine // Grand Magus Hammer of the Nor
       <pubDate>Fri, 30 Jun 2023 09:45:00 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-29-06-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bd939bda-c416-4c92-b6e7-b031009eb32a/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bd939bda-c416-4c92-b6e7-b031009eb32a/image.jpg" />
       <description>De Allerlaatste Staalhard van het seizoen. Aandacht voor Ieperfest, nieuwe tracks en enkele parels van het afgelopen seizoen. Tot in september!
 
 Fear Factory - Recharger
@@ -2487,6 +2592,7 @@ Sheer Terror - Rock Bottom on the Kitchenfloor</description>
       <pubDate>Mon, 26 Jun 2023 10:25:03 +0000</pubDate>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-22-06-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0a603094-197f-4947-8a7b-b02d00a91cd7/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0a603094-197f-4947-8a7b-b02d00a91cd7/image.jpg" />
       <description>Een terugblik op Graspop 2023 en uiteraard de broodnodige portie nieuwe songs!
 
 Baroness - Last Word 
