@@ -32,10 +32,12 @@ jobs:
 
       - name: Commit and push if changed
         run: |
+          export DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
           git add docs/staalhard.rss
 
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS feed"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS feed ($DATE)"
           git push
