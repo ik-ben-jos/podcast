@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e1dbf03d-771b-4286-8efa-b40c00a11be7/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/790b9d25-0f8f-4c3c-9359-b41300ae6370/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e1dbf03d-771b-4286-8efa-b40c00a11be7/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/790b9d25-0f8f-4c3c-9359-b41300ae6370/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (19/03/2026)</title>
+      <guid>790b9d25-0f8f-4c3c-9359-b41300ae6370</guid>
+      <pubDate>Fri, 20 Mar 2026 10:58:16 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-19-03-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/790b9d25-0f8f-4c3c-9359-b41300ae6370/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/790b9d25-0f8f-4c3c-9359-b41300ae6370/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (12/03/2026)</title>
       <guid>e1dbf03d-771b-4286-8efa-b40c00a11be7</guid>
@@ -2585,37 +2593,6 @@ Militarie Gun - Do It Faster
 Brutus - Brave
 Gaupa - Exoskeleton
 Sheer Terror - Rock Bottom on the Kitchenfloor</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (22/06 19u)</title>
-      <guid>0a603094-197f-4947-8a7b-b02d00a91cd7</guid>
-      <pubDate>Mon, 26 Jun 2023 10:25:03 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-22-06-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0a603094-197f-4947-8a7b-b02d00a91cd7/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0a603094-197f-4947-8a7b-b02d00a91cd7/image.jpg" />
-      <description>Een terugblik op Graspop 2023 en uiteraard de broodnodige portie nieuwe songs!
-
-Baroness - Last Word 
-Knocked Loose - Deep in the Willow 
-Any Given Day - Get it Done
-Mutoid Man - Siren Song
-Slipknot - Sulfur 
-Kvelertak - Skoggangr 
-Machine Head - Halo
-Vexed - Trauma Euphoria 
-Cavalera - Bestial Devastation
-Witch Piss - Old Hound Religion
-Carnation - Cursed Mortality 
-Johnny The Boy - Grime 
-Knife - Heaven into Dust
-Spirit Adrift - Barn Burner
-SkÁlmÖld - Ratatoskur 
-Hexvessel - Older Than The Gods 
-Carpenter Brut - Beware The Beast
-Parkway Drive - Prey
-Captain Kaiser - Champagne Handshake
-Motley Crue - Dr Feelgood
-Metallica - Call of Ktulu</description>
     </item>
   </channel>
 </rss>
