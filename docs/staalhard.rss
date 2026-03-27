@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/790b9d25-0f8f-4c3c-9359-b41300ae6370/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/55cb49c5-7942-45c3-819f-b41a009d44ac/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/790b9d25-0f8f-4c3c-9359-b41300ae6370/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/55cb49c5-7942-45c3-819f-b41a009d44ac/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (26/03/2026)</title>
+      <guid>55cb49c5-7942-45c3-819f-b41a009d44ac</guid>
+      <pubDate>Fri, 27 Mar 2026 09:43:24 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-26-03-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/55cb49c5-7942-45c3-819f-b41a009d44ac/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/55cb49c5-7942-45c3-819f-b41a009d44ac/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (19/03/2026)</title>
       <guid>790b9d25-0f8f-4c3c-9359-b41300ae6370</guid>
@@ -2558,41 +2566,6 @@ Carnation - Metropolis</description>
 
 
 Biohazard Chamber Spins Three // Baroness Shine // Grand Magus Hammer of the North // Sepultura Refuse/Resist // KK's Priest Strike of the Viper // Faetooth Echolalia // Black Label Society Bored to Tears // Far Beyond Fast Forward // Hinayana Reverse The Code // Vola Paper Wolf // Carnation Replicant // 3Teeth &amp; Mick Gordon Higher than Death // Wolves in the Throne Room Twin Mouthed Spring // Incantation Homunculus (Spirit Made Flesh) IX // Nadir I Strid // Myrkur Like Humans // Go Ahead and Die Tumors // Exmortus Mask of Red Death // Prong Non-Existence // Knocked Loose Everything is Quiet Now // Zulu Where I am From // Parkway Drive Ground Zero // Karnivool All it Takes // Suicidal Tendencies Can't Bring me Down //</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (29/06 19u)</title>
-      <guid>bd939bda-c416-4c92-b6e7-b031009eb32a</guid>
-      <pubDate>Fri, 30 Jun 2023 09:45:00 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-29-06-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bd939bda-c416-4c92-b6e7-b031009eb32a/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bd939bda-c416-4c92-b6e7-b031009eb32a/image.jpg" />
-      <description>De Allerlaatste Staalhard van het seizoen. Aandacht voor Ieperfest, nieuwe tracks en enkele parels van het afgelopen seizoen. Tot in september!
-
-Fear Factory - Recharger
-Devildriver - This Relationship, Broken
-Katatonia - Opaline
-Avatar - The Dirt I'm Buried In
-SumerlandsDreamkiller
-Cro-Mags - Death Camps
-Soilwork - Övergivenheten
-Circle - Razorblades
-Polaris - Inhumane
-Megaton Sword - Power
-Motionless In White - Slaughterhouse
-Nasty - Chaos
-Wolfbrigade - Hammer to the Skull
-Bones - Funerary Magic
-Immortal - Wargod
-Gaerea - Mirage
-Psychonaut - Violate Consensus Reality
-Spirit World - U L C E R
-Lionheart - Hell On Earth
-Incendiary - Bite The Hook
-Tangled Horns - Pissing in the Wind
-Militarie Gun - Do It Faster
-Brutus - Brave
-Gaupa - Exoskeleton
-Sheer Terror - Rock Bottom on the Kitchenfloor</description>
     </item>
   </channel>
 </rss>
