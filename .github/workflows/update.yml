@@ -2,7 +2,7 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # runs daily at 06:00 UTC
+    - cron: "0 10 * * *"  # runs daily at 10:00 UTC
   workflow_dispatch:
 
 permissions:
