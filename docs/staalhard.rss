@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/55cb49c5-7942-45c3-819f-b41a009d44ac/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0ef1cf3d-1b2a-4db5-8223-b42100937656/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/55cb49c5-7942-45c3-819f-b41a009d44ac/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0ef1cf3d-1b2a-4db5-8223-b42100937656/image.jpg" />
+    <item>
+      <title>And They Said Metal Was Dead In The 90's met Jasper De Petter (02/03/2026)</title>
+      <guid>0ef1cf3d-1b2a-4db5-8223-b42100937656</guid>
+      <pubDate>Fri, 03 Apr 2026 09:16:13 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/and-they-said-metal-was-dead-in-the-90s-met-jasper-de-petter-02-03-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0ef1cf3d-1b2a-4db5-8223-b42100937656/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0ef1cf3d-1b2a-4db5-8223-b42100937656/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (26/03/2026)</title>
       <guid>55cb49c5-7942-45c3-819f-b41a009d44ac</guid>
@@ -2553,19 +2561,6 @@ Carnation - Metropolis</description>
 23.Motorhead - In the Name of Tragedy
 
 24.Accept - Balls to the Wall</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (31/08 19u)</title>
-      <guid>2f7494e6-ec84-4d5e-847a-b06f01368be1</guid>
-      <pubDate>Thu, 31 Aug 2023 19:11:42 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-31-08-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2f7494e6-ec84-4d5e-847a-b06f01368be1/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/2f7494e6-ec84-4d5e-847a-b06f01368be1/image.jpg" />
-      <description>Staalhard is back. Nieuw seizoen en heel veel goesting.
-
-
-
-Biohazard Chamber Spins Three // Baroness Shine // Grand Magus Hammer of the North // Sepultura Refuse/Resist // KK's Priest Strike of the Viper // Faetooth Echolalia // Black Label Society Bored to Tears // Far Beyond Fast Forward // Hinayana Reverse The Code // Vola Paper Wolf // Carnation Replicant // 3Teeth &amp; Mick Gordon Higher than Death // Wolves in the Throne Room Twin Mouthed Spring // Incantation Homunculus (Spirit Made Flesh) IX // Nadir I Strid // Myrkur Like Humans // Go Ahead and Die Tumors // Exmortus Mask of Red Death // Prong Non-Existence // Knocked Loose Everything is Quiet Now // Zulu Where I am From // Parkway Drive Ground Zero // Karnivool All it Takes // Suicidal Tendencies Can't Bring me Down //</description>
     </item>
   </channel>
 </rss>
