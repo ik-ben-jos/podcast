@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0ef1cf3d-1b2a-4db5-8223-b42100937656/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/80e5ca5c-8d53-4b57-b1f6-b43600837782/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0ef1cf3d-1b2a-4db5-8223-b42100937656/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/80e5ca5c-8d53-4b57-b1f6-b43600837782/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (23/04/2026)</title>
+      <guid>80e5ca5c-8d53-4b57-b1f6-b43600837782</guid>
+      <pubDate>Fri, 24 Apr 2026 08:13:33 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-23-04-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/80e5ca5c-8d53-4b57-b1f6-b43600837782/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/80e5ca5c-8d53-4b57-b1f6-b43600837782/image.jpg" />
+    </item>
     <item>
       <title>And They Said Metal Was Dead In The 90's met Jasper De Petter (02/03/2026)</title>
       <guid>0ef1cf3d-1b2a-4db5-8223-b42100937656</guid>
@@ -2506,61 +2514,6 @@ Skemer - Overgave
 Killing Joke - The Death &amp; Resurrection Show
 The Devil's Blood - Evermore
 Carnation - Metropolis</description>
-    </item>
-    <item>
-      <title>Staalhard met ANDRIES BECKERS (07/09 19u)</title>
-      <guid>cfdabecd-759b-41c1-90ca-b07601339a33</guid>
-      <pubDate>Thu, 07 Sep 2023 19:09:44 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-07-09-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/cfdabecd-759b-41c1-90ca-b07601339a33/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/cfdabecd-759b-41c1-90ca-b07601339a33/image.jpg" />
-      <description>1.Killswitch Engage - Rose of Sharyn
-
-2.Kvelertak - Endling
-
-3.Paradise Lost - Say Just Words
-
-4.Týr - Blood of Heroes
-
-5.D.R.I. - Acid Rain
-
-6.Bury Tomorrow - Abandon Us
-
-7.Korn - A.D.I.D.A.S.
-
-8.Bear - Defeatist
-
-9.Drain - Good Good Things
-
-10.Wrong Man - Don't remind me
-
-11.Sadus - Ride The Knife
-
-12.Spirit Box - Jaded
-
-13.Dyscordia - Hell
-
-14.Death - Pull the Plug
-
-15.Repugnant - Hungry Are the Damned
-
-16.Job for a Cowboy - The Agony Seeping Storm
-
-17.Fen - Scouring Ignorance
-
-18.Witch Club Satan - Hysteria
-
-19.Sanity's Rage - The Final Exhibit of Pain
-
-20.Mastodon - Oblivion
-
-21.Soen - Memorial
-
-22.Briqueville - AKTE XVIII
-
-23.Motorhead - In the Name of Tragedy
-
-24.Accept - Balls to the Wall</description>
     </item>
   </channel>
 </rss>
