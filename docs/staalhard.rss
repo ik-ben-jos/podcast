@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/80e5ca5c-8d53-4b57-b1f6-b43600837782/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bc7d0702-e757-4113-bb27-b44200a4b5ca/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/80e5ca5c-8d53-4b57-b1f6-b43600837782/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bc7d0702-e757-4113-bb27-b44200a4b5ca/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (30/04/2026)</title>
+      <guid>bc7d0702-e757-4113-bb27-b44200a4b5ca</guid>
+      <pubDate>Wed, 06 May 2026 10:12:01 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-30-04-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bc7d0702-e757-4113-bb27-b44200a4b5ca/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bc7d0702-e757-4113-bb27-b44200a4b5ca/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (23/04/2026)</title>
       <guid>80e5ca5c-8d53-4b57-b1f6-b43600837782</guid>
@@ -2481,39 +2489,6 @@ Fear Factory - Recharger
 Powerstroke - The Gentle Art of making Enemies
 Channel Zero - Call on Me
 The Bridge City Sinners - Through and Through</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers ( 14/09 19u)</title>
-      <guid>b1d864d7-cd29-4812-9f7b-b07d013abf5d</guid>
-      <pubDate>Thu, 14 Sep 2023 19:15:55 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-14-09-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b1d864d7-cd29-4812-9f7b-b07d013abf5d/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b1d864d7-cd29-4812-9f7b-b07d013abf5d/image.jpg" />
-      <description>While She Sleeps - Self Hell
-Cirith Ungol - Velocity (S.E.P.)
-Sylosis - Descent
-Conquer Divide - System Failure
-Aether Realm - Should I feat. Bjorn Speed Strid
-Parasite - Blood Money
-Madball - New York City
-Code Orange - Take Shape feat. Billy Corgan
-Tiger Army - Afterworld
-Angelus Apatrida - Cold
-24-7 Spyz - My Desire
-Static-X - Stay Alive
-Tangled Horns - Mug
-Dying Fetus - Feast of Ashes
-Leng Tch'e - Stentor of Doom
-Taake - Gid sprakk Vi
-Daath - The Silent Foray
-Septic Flesh - Anubus
-My Lament - November
-Burden Called God - Rise
-Metallica - Devil's Dance
-Skemer - Overgave
-Killing Joke - The Death &amp; Resurrection Show
-The Devil's Blood - Evermore
-Carnation - Metropolis</description>
     </item>
   </channel>
 </rss>
