@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bc7d0702-e757-4113-bb27-b44200a4b5ca/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/aff19e65-976c-4634-bf17-b444008e36c8/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/bc7d0702-e757-4113-bb27-b44200a4b5ca/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/aff19e65-976c-4634-bf17-b444008e36c8/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (07/05/2026)</title>
+      <guid>aff19e65-976c-4634-bf17-b444008e36c8</guid>
+      <pubDate>Fri, 08 May 2026 08:47:40 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-07-05-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/aff19e65-976c-4634-bf17-b444008e36c8/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/aff19e65-976c-4634-bf17-b444008e36c8/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (30/04/2026)</title>
       <guid>bc7d0702-e757-4113-bb27-b44200a4b5ca</guid>
@@ -2456,39 +2464,6 @@ Scrape - Shake The Nation
 Nine Inch Nails - Wish
 
 Black Sabbath - The Mob Rules</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (21/09 19u)</title>
-      <guid>330d7556-d584-424a-84c0-b084013cd144</guid>
-      <pubDate>Thu, 21 Sep 2023 19:25:18 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-21-09-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/330d7556-d584-424a-84c0-b084013cd144/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/330d7556-d584-424a-84c0-b084013cd144/image.jpg" />
-      <description>Baroness - Anodyne
-In Flames - Meet Your Maker
-Dark Tranquility - Phantom Days
-Mercyful Fate - A Dangerous Meeting
-Alien Weaponry - Īhenga
-Kadavar - Last Living Dinosaur
-Therion - Twilight of the Gods
-Vexed - Lay Down Your Flowers
-Sworn Enemy - Sworn Enemy
-Earth crisis - Slither
-Brutus - Love Won't Hide the Ugliness
-Ironborn - Guardian of The Scales
-Evil Invaders - Driving Fast
-Brujeria - Mochado
-Blood Incantation - Obliquity of the Ecliptic
-Shining - Fidelis Ad Mortem
-Tomb Mold - The Perfect Memory (Phantasm of Aura)
-Doganov - Locked Up
-Dio - The Last In Line
-Danko Jones - Shake Your City
-Down - On March The Saints
-Fear Factory - Recharger
-Powerstroke - The Gentle Art of making Enemies
-Channel Zero - Call on Me
-The Bridge City Sinners - Through and Through</description>
     </item>
   </channel>
 </rss>
