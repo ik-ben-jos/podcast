@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/aff19e65-976c-4634-bf17-b444008e36c8/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d8aa6ab3-103f-4c5c-a8f3-b452009482d0/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/aff19e65-976c-4634-bf17-b444008e36c8/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d8aa6ab3-103f-4c5c-a8f3-b452009482d0/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (21/05/2026)</title>
+      <guid>d8aa6ab3-103f-4c5c-a8f3-b452009482d0</guid>
+      <pubDate>Fri, 22 May 2026 09:11:49 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-21-05-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d8aa6ab3-103f-4c5c-a8f3-b452009482d0/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d8aa6ab3-103f-4c5c-a8f3-b452009482d0/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (07/05/2026)</title>
       <guid>aff19e65-976c-4634-bf17-b444008e36c8</guid>
@@ -2407,63 +2415,6 @@ AFI - Beautiful Thieves
 Rival Schools - Travel by Telephone
 Melissa Auf der Maur - Father's Grave feat. Glenn Danzig
 S.O.D. - March of the S.O.D.</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (28/09 19u)</title>
-      <guid>e0c7dad0-ce2d-42eb-9696-b08b01505ef9</guid>
-      <pubDate>Thu, 28 Sep 2023 20:34:19 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-28-09-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e0c7dad0-ce2d-42eb-9696-b08b01505ef9/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e0c7dad0-ce2d-42eb-9696-b08b01505ef9/image.jpg" />
-      <description>Type O Negative - Everyone I Know Is Dead
-
-Lamb Of God - Omerta
-
-Thy Art Is Murder - Join Me In Armageddon
-
-3TEETH - Everybody Wants To Rule The World
-
-Propaghandi - Victory Lap
-
-Descendents - Everything Sux
-
-Good Riddance - Weight Of The World
-
-Asinhell - Desert Of Doom
-
-Nevermore - Narcosynthesis
-
-Pro-Pain - Death On The Dancefloor
-
-Nuclear Assault - Something Wicked
-
-Hunter - Wicked
-
-Bear - Defeatist
-
-Cannibal Corpse - Chaos Horrific
-
-Hexvessel - Homeward Polar Spirit
-
-Parasite - Blood Money
-
-Year Of The Knife - Wish
-
-Chelsea Wolfe - Dusk
-
-Entombed - Hollowman
-
-Pruillip - Place All Your Cards
-
-Cardinal - Take It From The Top
-
-Superbloom - Velvet Hippo
-
-Scrape - Shake The Nation
-
-Nine Inch Nails - Wish
-
-Black Sabbath - The Mob Rules</description>
     </item>
   </channel>
 </rss>
