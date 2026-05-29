@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d8aa6ab3-103f-4c5c-a8f3-b452009482d0/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5ff0352b-585d-4d81-b963-b4590085ef33/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d8aa6ab3-103f-4c5c-a8f3-b452009482d0/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5ff0352b-585d-4d81-b963-b4590085ef33/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (28/05/2026)</title>
+      <guid>5ff0352b-585d-4d81-b963-b4590085ef33</guid>
+      <pubDate>Fri, 29 May 2026 08:25:36 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-28-05-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5ff0352b-585d-4d81-b963-b4590085ef33/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5ff0352b-585d-4d81-b963-b4590085ef33/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (21/05/2026)</title>
       <guid>d8aa6ab3-103f-4c5c-a8f3-b452009482d0</guid>
@@ -2380,41 +2388,6 @@ Deftones - Diamond Eyes
 Savatage - Edge of Thorns
 Moon Tooth - Grimothy
 Alice In Chains - Stone</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (05/10 19u)</title>
-      <guid>b8d11391-b252-42bd-b586-b09201564e14</guid>
-      <pubDate>Thu, 05 Oct 2023 20:52:48 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-05-10-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b8d11391-b252-42bd-b586-b09201564e14/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b8d11391-b252-42bd-b586-b09201564e14/image.jpg" />
-      <description>The Dillinger Escape Plan - Black Bubblegum
-Primordial - Victory Has 1000 Fathers, Defeat Is an Orphan
-Annihilator - Alison Hell
-Code Orange - Theatre Of Cruelty
-The Plot In You - Forgotten
-Minor Threat - Filler
-Scowl - Opening Night
-Hatebreed - I Will Be Heard
-KK's Priest - HYMN 66
-Avatar - The Dirt I'm Buried In
-Electric Callboy - We Got the Moves
-Katatonia - Behind the Blood
-Blind To Faith - Fever Dreams
-The Priceduifkes - Send It
-Carnation - Cycle of Suffering
-Ritual Death - Lunae
-Selbst - The Depths of Selfishness
-Orange Goblin - Red Tide Rising
-Verslinder - A Crimson Tide
-Pallbearer - Rite of Passage
-RDS-220 - Venomous Machinations
-Slipknot - Sulfur
-Rollins Band - What's the Matter Man
-AFI - Beautiful Thieves
-Rival Schools - Travel by Telephone
-Melissa Auf der Maur - Father's Grave feat. Glenn Danzig
-S.O.D. - March of the S.O.D.</description>
     </item>
   </channel>
 </rss>
