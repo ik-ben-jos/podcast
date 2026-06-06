@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5ff0352b-585d-4d81-b963-b4590085ef33/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ff8aff8b-a86b-46c9-8f7a-b46000767870/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5ff0352b-585d-4d81-b963-b4590085ef33/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ff8aff8b-a86b-46c9-8f7a-b46000767870/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (04/06/2026)</title>
+      <guid>ff8aff8b-a86b-46c9-8f7a-b46000767870</guid>
+      <pubDate>Fri, 05 Jun 2026 14:59:27 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-04-06-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ff8aff8b-a86b-46c9-8f7a-b46000767870/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ff8aff8b-a86b-46c9-8f7a-b46000767870/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (28/05/2026)</title>
       <guid>5ff0352b-585d-4d81-b963-b4590085ef33</guid>
@@ -2354,40 +2362,6 @@ Carnation - Maruta</description>
       <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-26-10-19u</link>
       <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c59fcd6b-57c8-4137-8412-b0a70137fc18/audio.mp3" type="audio/mpeg" />
       <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c59fcd6b-57c8-4137-8412-b0a70137fc18/image.jpg" />
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (19/10/23 19u)</title>
-      <guid>d4d68072-a21e-49ef-a26f-b0a10091c7ac</guid>
-      <pubDate>Fri, 20 Oct 2023 08:59:52 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-19-10-23-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d4d68072-a21e-49ef-a26f-b0a10091c7ac/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d4d68072-a21e-49ef-a26f-b0a10091c7ac/image.jpg" />
-      <description>Judas Priest - Panic Attack
-Of Mice And Men - Warpaint
-Tallah - Hard Knock
-Deathchant - Mirror
-Crowbar - All I Had I gave
-Ghost - Watcher in the Sky
-Dusk - Wendigo
-Many Eyes - Revelation
-Capra - Human Commodity
-Powerwolf - Wolves of War
-Fatal Move - Disgrace
-Poseydon - Awakening of the Gods
-Kvelertak - Endling
-Crypta - Stronghold
-Krieg - Solitarily, A Future Renounced
-Ringworm - No Solace, No Quarter, No Mercy
-Wolves in the Throne Room - Initiates Of The White Hart
-Sorcerer - The Hammer of Witches
-Linus Klausenitzer - Sword Swallower
-Primal Creation - Not in my Backyard
-Austrian Death Machine - No Pain No Gain
-Machine Head - A Thousand Lies
-Deftones - Diamond Eyes
-Savatage - Edge of Thorns
-Moon Tooth - Grimothy
-Alice In Chains - Stone</description>
     </item>
   </channel>
 </rss>
