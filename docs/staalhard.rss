@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ff8aff8b-a86b-46c9-8f7a-b46000767870/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4b61277c-8fc0-42c5-82cc-b467008b7b4d/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/ff8aff8b-a86b-46c9-8f7a-b46000767870/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4b61277c-8fc0-42c5-82cc-b467008b7b4d/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (11/06/2026) </title>
+      <guid>4b61277c-8fc0-42c5-82cc-b467008b7b4d</guid>
+      <pubDate>Fri, 12 Jun 2026 08:37:13 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-11-06-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4b61277c-8fc0-42c5-82cc-b467008b7b4d/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4b61277c-8fc0-42c5-82cc-b467008b7b4d/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (04/06/2026)</title>
       <guid>ff8aff8b-a86b-46c9-8f7a-b46000767870</guid>
@@ -2354,14 +2362,6 @@ Crippled Black Phoenix - Cry of Love
 Columbarium - Eyes Bleed Black
 Baroness - Shock Me
 Carnation - Maruta</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (26/10 19u)</title>
-      <guid>c59fcd6b-57c8-4137-8412-b0a70137fc18</guid>
-      <pubDate>Thu, 26 Oct 2023 19:26:39 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-26-10-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c59fcd6b-57c8-4137-8412-b0a70137fc18/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c59fcd6b-57c8-4137-8412-b0a70137fc18/image.jpg" />
     </item>
   </channel>
 </rss>
