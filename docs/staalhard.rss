@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/87eb0507-f881-4f5a-83a3-b47100cdf230/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e34aa6f5-e751-4dde-9bc9-b47d007ab70e/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/87eb0507-f881-4f5a-83a3-b47100cdf230/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e34aa6f5-e751-4dde-9bc9-b47d007ab70e/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (25/06/2026)</title>
+      <guid>e34aa6f5-e751-4dde-9bc9-b47d007ab70e</guid>
+      <pubDate>Sat, 04 Jul 2026 08:16:24 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-25-06-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e34aa6f5-e751-4dde-9bc9-b47d007ab70e/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e34aa6f5-e751-4dde-9bc9-b47d007ab70e/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (18/06/2026)</title>
       <guid>87eb0507-f881-4f5a-83a3-b47100cdf230</guid>
@@ -2309,37 +2317,6 @@ Dudsekop - Brandstoake
 Jinjer - Mediator
 Far Beyond - Alternate
 Angelwitch - Angelwitch</description>
-    </item>
-    <item>
-      <title>Staalhard met ANDRIES BECKERS (16/11 19u)</title>
-      <guid>472175f2-985a-40f9-ba0f-b0bd00aa8c24</guid>
-      <pubDate>Fri, 17 Nov 2023 10:37:35 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-16-11-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/472175f2-985a-40f9-ba0f-b0bd00aa8c24/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/472175f2-985a-40f9-ba0f-b0bd00aa8c24/image.jpg" />
-      <description>Paradise Lost - Embers Fire
-Sorcerer - Morning Star 
-Slayer - Mandatory Suicide
-Bleed From Within - Overthrone
-Khemmis - A Conversation with Death
-The Ghost Inside - Death Grip 
-Asinhell - Desert of Doom
-Cobra Spell - S.E.X.
-Slipknot - Unsainted
-Sodom - 1982
-Shinedown - Sound Of Madness
-Helmet - Big Shot
-Napalm Death - The Wolf I Feed
-Ruïm - The Triumph (Of Night &amp; Fire)
-Autopsy - Throatsaw
-Myrkur - Like Humans
-Dimmu Borgir - Perfect Strangers
-Architects - Doomsday
-Nervosa - Endless Ambition
-Malevolent - Gaze
-Gojira - Our Time is Now
-Big Scenic Nowhere - The Waydown 
-Pruillip - Place All your Cards</description>
     </item>
   </channel>
 </rss>
