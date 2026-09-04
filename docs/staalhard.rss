@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e34aa6f5-e751-4dde-9bc9-b47d007ab70e/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a624f5f8-99f7-4a83-8f2c-b4bb0080f5ae/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/e34aa6f5-e751-4dde-9bc9-b47d007ab70e/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a624f5f8-99f7-4a83-8f2c-b4bb0080f5ae/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (03/09/2026)</title>
+      <guid>a624f5f8-99f7-4a83-8f2c-b4bb0080f5ae</guid>
+      <pubDate>Fri, 04 Sep 2026 08:30:50 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-03-09-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a624f5f8-99f7-4a83-8f2c-b4bb0080f5ae/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a624f5f8-99f7-4a83-8f2c-b4bb0080f5ae/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (25/06/2026)</title>
       <guid>e34aa6f5-e751-4dde-9bc9-b47d007ab70e</guid>
@@ -2285,38 +2293,6 @@ Killing Joke - The Wait (2005 Digital Remaster)
 Killing Joke - Wardance
 Killthelogo - Utopia
 Apocalyptica - Bittersweet (Live in Helsinki St. John's Church)</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (23/11 19u)</title>
-      <guid>67f5229a-78ad-405e-9975-b0c3014b6bff</guid>
-      <pubDate>Thu, 23 Nov 2023 20:18:10 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-23-11-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/67f5229a-78ad-405e-9975-b0c3014b6bff/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/67f5229a-78ad-405e-9975-b0c3014b6bff/image.jpg" />
-      <description>Carcass - Buried Dreams
-Saxon - Hell, Fire And Damnation
-Channel Zero - Heroin
-High On Fire - Last
-Paint It Black - Famine
-Gallows - London is the Reason
-Corrosion of Conformity - King of the Rotten
-Children of Bodom - Hate Me
-Many Eyes - Revelation
-TEMIC - Count Your Losses
-Amaranthe - Outer Dimensions
-Toxic Shock - Reborn
-Converge - Concubine
-Ihsahn - Pilgrimage To Oblivion
-Plaguemace - Rhythmic Demise 
-HELGA - Skogen mumlar
-Judas Priest - Trial by Fire
-Deafheaven - Dream House
-Modder - Doom denker
-Celeste - Plisse Les Yeux Jusqu au Sang
-Dudsekop - Brandstoake
-Jinjer - Mediator
-Far Beyond - Alternate
-Angelwitch - Angelwitch</description>
     </item>
   </channel>
 </rss>
