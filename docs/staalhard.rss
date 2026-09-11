@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a624f5f8-99f7-4a83-8f2c-b4bb0080f5ae/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c03c1add-bcc7-4923-9f15-b4c200d9fe16/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a624f5f8-99f7-4a83-8f2c-b4bb0080f5ae/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c03c1add-bcc7-4923-9f15-b4c200d9fe16/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (10/09/2026)</title>
+      <guid>c03c1add-bcc7-4923-9f15-b4c200d9fe16</guid>
+      <pubDate>Fri, 11 Sep 2026 13:35:50 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-10-09-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c03c1add-bcc7-4923-9f15-b4c200d9fe16/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c03c1add-bcc7-4923-9f15-b4c200d9fe16/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (03/09/2026)</title>
       <guid>a624f5f8-99f7-4a83-8f2c-b4bb0080f5ae</guid>
@@ -2261,38 +2269,6 @@ Ace Frehley - 10,000 Volts
 Rush - Limelight 
 
 Amenra - .razoreater.</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (30/11 19u)</title>
-      <guid>0f5ac77f-52b8-44e5-a3fc-b0ca0144acea</guid>
-      <pubDate>Thu, 30 Nov 2023 22:40:29 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-30-11-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0f5ac77f-52b8-44e5-a3fc-b0ca0144acea/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/0f5ac77f-52b8-44e5-a3fc-b0ca0144acea/image.jpg" />
-      <description>White Zombie - More Human than Human
-Islander - Witch
-Unto Others - It Doesn't Really Matter
-Wytch Hazel - The Fire's Control
-Opeth - Sorceress
-Bleed From Within - I Am Damnation
-The Halo Effect - The Defiant One
-Megadeth - Night Stalkers (feat. Ice-T)
-Gloryhammer - Keeper of the Celestial Flame of Abernethy
-Faetooth - Echolalia
-Devin Townsend - Bad Devil
-PatriarcH - Deadlocked
-Parasite - Scorched Earth
-Obituary - The Wrong Time
-Nightmarer - Brutalist Imperator
-Heriot - Soulchasm
-Aldaaron - Bannières de nuit
-Night's Requiem - Immemorial
-Cryptosis - Master of Life
-Taranis - Night of the banshee
-Killing Joke - The Wait (2005 Digital Remaster)
-Killing Joke - Wardance
-Killthelogo - Utopia
-Apocalyptica - Bittersweet (Live in Helsinki St. John's Church)</description>
     </item>
   </channel>
 </rss>
