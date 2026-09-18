@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c03c1add-bcc7-4923-9f15-b4c200d9fe16/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/3eb744b5-ae47-46a6-ae16-b4c900744544/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c03c1add-bcc7-4923-9f15-b4c200d9fe16/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/3eb744b5-ae47-46a6-ae16-b4c900744544/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (17/09/2026)</title>
+      <guid>3eb744b5-ae47-46a6-ae16-b4c900744544</guid>
+      <pubDate>Fri, 18 Sep 2026 07:42:52 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-17-09-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/3eb744b5-ae47-46a6-ae16-b4c900744544/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/3eb744b5-ae47-46a6-ae16-b4c900744544/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (10/09/2026)</title>
       <guid>c03c1add-bcc7-4923-9f15-b4c200d9fe16</guid>
@@ -2213,62 +2221,6 @@ Comeback Kid - Trouble In The Winners Circle 
 Ketter - Azatoth 
 
 Elder - Endless Return</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers  (7/12 19U)</title>
-      <guid>16861ab4-8ead-4804-8f1a-b0d200cec3f9</guid>
-      <pubDate>Fri, 08 Dec 2023 12:43:18 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-7-12-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/16861ab4-8ead-4804-8f1a-b0d200cec3f9/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/16861ab4-8ead-4804-8f1a-b0d200cec3f9/image.jpg" />
-      <description>Bruce Dickinson - Afterglow Of Ragnarok 
-
-Architects - Seeing Red 
-
-Orbit Culture - The Upheaval 
-
-Ozzy Osbourne - Hellraiser
-
-KK's Priest - Sons of The Sentinel 
-
-The Hellacopters - The Electric Index Eel 
-
-Cobra Spell - S.E.X. 
-
-Most Precious Blood - The Great Red Shift
-
-The Hope Conspiracy - Nail in the Coffin 
-
-Sylosis - Pariahs 
-
-Halestorm - Wicked Ways 
-Darkest Hour - Demon(s)
-
-Abrahamic Liars - Saptem
-
-Grafjammer - Gadoot
-
-Immortal - Blashyrkh (Mighty Ravendark)
-
-Dissection - The Somberlain 
-
-Marianas Rest - Unsinkable 
-
-Unleashed - Before the Creation of Time
-
-Jarhead Fertilizer - Mark of the Beast 
-
-pg.lost - Suffering
-
-Fire Is Murder - Daisy Chain 
-
-Zetra - Sacrifice 
-
-Ace Frehley - 10,000 Volts
-
-Rush - Limelight 
-
-Amenra - .razoreater.</description>
     </item>
   </channel>
 </rss>
