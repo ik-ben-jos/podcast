@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/3eb744b5-ae47-46a6-ae16-b4c900744544/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4342824b-ddfb-4d1b-964c-b4d0009c7ea0/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/3eb744b5-ae47-46a6-ae16-b4c900744544/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4342824b-ddfb-4d1b-964c-b4d0009c7ea0/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (24/09/2026)</title>
+      <guid>4342824b-ddfb-4d1b-964c-b4d0009c7ea0</guid>
+      <pubDate>Fri, 25 Sep 2026 09:40:14 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-24-09-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4342824b-ddfb-4d1b-964c-b4d0009c7ea0/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4342824b-ddfb-4d1b-964c-b4d0009c7ea0/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (17/09/2026)</title>
       <guid>3eb744b5-ae47-46a6-ae16-b4c900744544</guid>
@@ -2166,61 +2174,6 @@ Brutus - Love Won't Hide the Ugliness</description>
 22.Ministry - Just One Fix
 23.Melvins - Honey Bucket
 24.Down - Bury me in Smoke</description>
-    </item>
-    <item>
-      <title>Staalhard met ANDRIES BECKERS (14/12 19u)</title>
-      <guid>a22c3b9b-70cb-4d81-93f1-b0d801498368</guid>
-      <pubDate>Thu, 14 Dec 2023 20:07:49 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-14-12-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a22c3b9b-70cb-4d81-93f1-b0d801498368/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/a22c3b9b-70cb-4d81-93f1-b0d801498368/image.jpg" />
-      <description>Manowar - Kings of Metal
-
-Amon Amarth - Twilight of the Thunder God 
-
-Iron Maiden - Man on the edge 
-
-While She sleeps - Down (Feat Alex Taylor)
-
-Kyuss - One Inch Man 
-
-AAWKS - The Figure 
-
-King Dust - Say You Will 
-
-Knocked Loose - Everything is Quiet now
-
-Fatal Move - Fugazi
-
-Lamb of God - Gears 
-
-Moonspell - Opium 
-
-Feed The Rhino - New Wave
-
-Tangled Horns - Sleeping Dogs
-
-Enslaved - Jettegryta 
-
-Bathory - A Fine Day to Die 
-
-Cannibal Corpse - Murderous Rampage 
-
-Wrath of Logarius - Burning One
-
-HEALTH - DSM-V
-
-Austrian Death Machine - Don't Be Lazy 
-
-Upon Stone &amp; Shadows Fall - Paradise Failed (feat. Brian Fair)
-
-Lucifer - Slow Dance In A Crypt
-
-Comeback Kid - Trouble In The Winners Circle 
-
-Ketter - Azatoth 
-
-Elder - Endless Return</description>
     </item>
   </channel>
 </rss>
