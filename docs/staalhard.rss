@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4342824b-ddfb-4d1b-964c-b4d0009c7ea0/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/81b8ea45-7fcc-419d-b8c4-b4d70082887c/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/4342824b-ddfb-4d1b-964c-b4d0009c7ea0/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/81b8ea45-7fcc-419d-b8c4-b4d70082887c/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (01/10/2026)</title>
+      <guid>81b8ea45-7fcc-419d-b8c4-b4d70082887c</guid>
+      <pubDate>Fri, 02 Oct 2026 08:35:12 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-01-10-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/81b8ea45-7fcc-419d-b8c4-b4d70082887c/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/81b8ea45-7fcc-419d-b8c4-b4d70082887c/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (24/09/2026)</title>
       <guid>4342824b-ddfb-4d1b-964c-b4d0009c7ea0</guid>
@@ -2140,40 +2148,6 @@ KING GIZZARD - GILA MONSTER 
 DRAIN - GOOD GOOD THINGS 
 
 Brutus - Love Won't Hide the Ugliness</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (21/12 19u)</title>
-      <guid>b236086b-e5f9-4d75-8b3f-b0df013f25e2</guid>
-      <pubDate>Thu, 21 Dec 2023 20:06:40 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-21-12-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b236086b-e5f9-4d75-8b3f-b0df013f25e2/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b236086b-e5f9-4d75-8b3f-b0df013f25e2/image.jpg" />
-      <description>De laatste "gewone" aflevering van 2023
-
-1.Deftones - Bored
-2.Metallica - Sweet Amber
-3.Avenged Sevenfold - Nobody
-4.Shadows - Nightstalker
-5.Evergrey - Save Us
-6.Van Halen - Unchained
-7.Mick Mars - Right Side of Wrong
-8.Higher Power - Shedding Skin
-9.Clutch - The Mob Goes Wild
-10.Tangled Horns - Sleeping Dogs
-11.Therion - Nummo
-12.Draconian - Lustrous Heart
-13.Rawdriguez - Slaves In The Galley
-14.Borknagar - Summits
-15.Ghoul - Noxious Concoctions
-16.Enterprise Earth - Casket of Rust
-17.Rituals of the Dead Hand - Wij, Hoeren van Lucifer
-18.Syndrome 81 - Vivre et mourir
-19.Svalbard - Faking it
-20.Ryker's - Once I Believed
-21.The Plot in you - Forgotten
-22.Ministry - Just One Fix
-23.Melvins - Honey Bucket
-24.Down - Bury me in Smoke</description>
     </item>
   </channel>
 </rss>
