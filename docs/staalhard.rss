@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/81b8ea45-7fcc-419d-b8c4-b4d70082887c/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/65c1a807-ed83-4941-9e97-b4de008594fe/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/81b8ea45-7fcc-419d-b8c4-b4d70082887c/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/65c1a807-ed83-4941-9e97-b4de008594fe/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (08/10/2026)</title>
+      <guid>65c1a807-ed83-4941-9e97-b4de008594fe</guid>
+      <pubDate>Fri, 09 Oct 2026 08:16:45 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-08-10-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/65c1a807-ed83-4941-9e97-b4de008594fe/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/65c1a807-ed83-4941-9e97-b4de008594fe/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (01/10/2026)</title>
       <guid>81b8ea45-7fcc-419d-b8c4-b4d70082887c</guid>
@@ -2087,67 +2095,6 @@ Gatecreeper - Starved
 Carpenter Brut - Imaginary Fire (feat. Greg Puciato)
 
 Doodseskader - I Ask with My Mouth, I'll Take with My Fist</description>
-    </item>
-    <item>
-      <title>THE BEST OF STAALHARD 2023 met Andries Beckers (04/01 16U)</title>
-      <guid>561d31da-b6a0-4e6d-8e5e-b0ed0154f176</guid>
-      <pubDate>Thu, 04 Jan 2024 20:51:08 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/the-best-of-staalhard-2023-met-andries-beckers-04</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/561d31da-b6a0-4e6d-8e5e-b0ed0154f176/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/561d31da-b6a0-4e6d-8e5e-b0ed0154f176/image.jpg" />
-      <description>Green Lung - Hunters in The Sky 
-
-Spirit Box - Jaded 
-
-Metallica - If Darkness Had a Son 
-
-Kvelertak - Endling
-
-Many Eyes - Revelation 
-
-Shadows - Nightstalker 
-
-Sylosis - Descent 
-
-Baroness - Anodyne
-
-Sleep Token - Vore
-
-ASINHELL - DESERT OF DOOM 
-
-Incendiary - BITE THE HOOK 
-
-Code Orange - Take Shape (feat. Billy Corgan)
-
-AVATAR - THE DIRT I’M BURIED IN
-
-Cobra Spell - S.E.X.
-
-CIVIC - Hourglass 
-
-Immortal - Wargod
-
-Big Scenic Nowhere - The Waydown
-
-Syndrome 81 - Vivre et mourir 
-
-Phantom Bay - Airtight
-
-Home Front - Nation 
-
-HEXVESSEL - older than the Gods
-
-Katatonia - Austerity
-
-Moon Tooth - Grimothy
-
-Helmet - Big Shot
-
-KING GIZZARD - GILA MONSTER 
-
-DRAIN - GOOD GOOD THINGS 
-
-Brutus - Love Won't Hide the Ugliness</description>
     </item>
   </channel>
 </rss>
