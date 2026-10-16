@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/65c1a807-ed83-4941-9e97-b4de008594fe/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5c8f1132-b028-45c1-9c3d-b4e5009fdd66/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/65c1a807-ed83-4941-9e97-b4de008594fe/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5c8f1132-b028-45c1-9c3d-b4e5009fdd66/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter &amp; Carnation (15/10/2026)</title>
+      <guid>5c8f1132-b028-45c1-9c3d-b4e5009fdd66</guid>
+      <pubDate>Fri, 16 Oct 2026 11:34:50 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-carnation-15-10-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5c8f1132-b028-45c1-9c3d-b4e5009fdd66/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5c8f1132-b028-45c1-9c3d-b4e5009fdd66/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (08/10/2026)</title>
       <guid>65c1a807-ed83-4941-9e97-b4de008594fe</guid>
@@ -2039,62 +2047,6 @@ Chat Pile - Slaughterhouse
 Unsane - Scrape 
 Zeal and Ardor - Death to the holy
 Iron Maiden - The Wicker Man</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (11/01 19u)</title>
-      <guid>5a03fc12-5690-47a7-86bd-b0f40149665d</guid>
-      <pubDate>Thu, 11 Jan 2024 20:08:41 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-11-01-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5a03fc12-5690-47a7-86bd-b0f40149665d/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5a03fc12-5690-47a7-86bd-b0f40149665d/image.jpg" />
-      <description>De eerste van 2023! De Beste wensen en wees welkom elke donderdag om 19u op Willy
-
-
-
-Bring me the Horizon - Kool-Aid 
-
-Cirith Ungol - Relentless 
-
-Down - Stone The Crow 
-
-Judas Priest - Panic Attack
-
-Fire Down Below - California
-
-Soen - Unbreakable 
-
-Lucifer - Maculate Heart 
-
-Doro - True Metal Maniacs
-
-Mick Mars - Right Side of Wrong 
-
-Extreme - Rise
-
-Body Count - Talk Shit, Get Shot
-Machine Head - Ten Ton Hammer
-
-Hatebreed - Empty Promises
-
-Entombed - Wolverine Blues 
-
-Sulphur Aeon - Hammer From The Howling Void 
-
-Vitriol - Shame and its Afterbirth 
-
-Vemod - Der Guder Dør
-
-Suldusk - Anthesis
-
-King Buffalo - Mammoth 
-
-Evergreen Terrace - Chaney Can't Quite Riff Like Helmet's Page Hamilton 
-
-Gatecreeper - Starved
-
-Carpenter Brut - Imaginary Fire (feat. Greg Puciato)
-
-Doodseskader - I Ask with My Mouth, I'll Take with My Fist</description>
     </item>
   </channel>
 </rss>
