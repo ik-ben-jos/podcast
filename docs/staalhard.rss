@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5c8f1132-b028-45c1-9c3d-b4e5009fdd66/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d1d565ec-8ec6-45af-badc-b4ec009f196d/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5c8f1132-b028-45c1-9c3d-b4e5009fdd66/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d1d565ec-8ec6-45af-badc-b4ec009f196d/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (22/10/2026)</title>
+      <guid>d1d565ec-8ec6-45af-badc-b4ec009f196d</guid>
+      <pubDate>Fri, 23 Oct 2026 09:55:20 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-22-10-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d1d565ec-8ec6-45af-badc-b4ec009f196d/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d1d565ec-8ec6-45af-badc-b4ec009f196d/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter &amp; Carnation (15/10/2026)</title>
       <guid>5c8f1132-b028-45c1-9c3d-b4e5009fdd66</guid>
@@ -2015,38 +2023,6 @@ Steak No 8 - Ashore
 Brutus - Victoria
 
 Amenra - .From Birth To Grave. From Shadow To Light.</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (18/01 19u)</title>
-      <guid>c7e4c44c-07f3-4d95-8e0b-b0fb014a0490</guid>
-      <pubDate>Thu, 18 Jan 2024 20:08:27 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-18-01-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c7e4c44c-07f3-4d95-8e0b-b0fb014a0490/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/c7e4c44c-07f3-4d95-8e0b-b0fb014a0490/image.jpg" />
-      <description>Mastodon - The Motherload 
-Korn - Forgotten 
-White Zombie - More Human Than Human 
-Polaris - Nightmare
-Exhorder - Year of the Goat
-King Diamond - Arrival
-Grave Digger- The Grave is Yours
-3 Inches of Blood- Deadly Sinners
-Testament - More Than Meets the Eye
-Amaranthe - ReVision
-Aborted &amp; Despised Icon - Death Cult
-Helloween - I want out
-Obituary - Blindsided
-VLTIMAS - Scorcherer
-Panzerchrist - Sabbath Of The Rat
-Enslaved - Gangandi
-Dödsrit - Nocturnal Fire
-D.R.I. - Acid Rain
-Ignite - Done Digging The Grave
-Suicidal Angels - Purified By Fire
-Chat Pile - Slaughterhouse
-Unsane - Scrape 
-Zeal and Ardor - Death to the holy
-Iron Maiden - The Wicker Man</description>
     </item>
   </channel>
 </rss>
