@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d1d565ec-8ec6-45af-badc-b4ec009f196d/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8b883898-e448-42ba-b38a-b4f3009ed4f0/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/d1d565ec-8ec6-45af-badc-b4ec009f196d/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8b883898-e448-42ba-b38a-b4f3009ed4f0/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (29/10/2026)</title>
+      <guid>8b883898-e448-42ba-b38a-b4f3009ed4f0</guid>
+      <pubDate>Fri, 30 Oct 2026 09:49:59 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-29-10-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8b883898-e448-42ba-b38a-b4f3009ed4f0/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8b883898-e448-42ba-b38a-b4f3009ed4f0/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (22/10/2026)</title>
       <guid>d1d565ec-8ec6-45af-badc-b4ec009f196d</guid>
@@ -1964,65 +1972,6 @@ Mindwar - Still at War
 Predatory Void - Grovel
 Steegmoord - A Fine Day to Exit
 Oathbreaker - Immortals</description>
-    </item>
-    <item>
-      <title>STAALHARD met Andries Beckers ( Week van de Belgische Muziek 25/01)</title>
-      <guid>26f0040c-48ea-40e0-824b-b102014770d6</guid>
-      <pubDate>Thu, 25 Jan 2024 20:24:43 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-week-van-de-belgisch</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/26f0040c-48ea-40e0-824b-b102014770d6/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/26f0040c-48ea-40e0-824b-b102014770d6/image.jpg" />
-      <description>Acid - Max Overload
-
-.Calibre - Calibre
-
-Killer - Wall of Sound
-
-Oceans of Sadness - Re-Erase
-
-Crime Scene - Sleep with Gun
-
-Gnome - Ambrosius
-
-Channel Zero - Inspiration to Violence
-
-Sons of Jonathas - Final Call
-
-Deviate - Thorn of the Living
-
-Temptations for the Weak - In Between
-
-Cyclone - I am the Plague
-
-Living Gate - Heaven Ablaze
-
-Enthroned - The Ultimate Horde Fights
-
-Exoto - Loss of Identity
-
-Agathocles - Fog
-
-Congress - Lifting The Ban
-
-Bütcher -Thermonuklear Road Warrior
-
-Ancient Rites - Mother Europe
-
-Ostrogoth - Ecstasy and Danger
-
-Aborted - Dead Wreckoning
-
-Fleddy Melculy - Stop!
-
-Evil Invaders - Mental Penitentiary
-
-Psychonaut - All your Gods have Gone
-
-Steak No 8 - Ashore
-
-Brutus - Victoria
-
-Amenra - .From Birth To Grave. From Shadow To Light.</description>
     </item>
   </channel>
 </rss>
