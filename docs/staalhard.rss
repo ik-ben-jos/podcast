@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8b883898-e448-42ba-b38a-b4f3009ed4f0/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b43fee7f-f3f6-4b0e-8254-b504008c4f6a/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/8b883898-e448-42ba-b38a-b4f3009ed4f0/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b43fee7f-f3f6-4b0e-8254-b504008c4f6a/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (12 november 2026)</title>
+      <guid>b43fee7f-f3f6-4b0e-8254-b504008c4f6a</guid>
+      <pubDate>Mon, 16 Nov 2026 08:41:15 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-12-november-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b43fee7f-f3f6-4b0e-8254-b504008c4f6a/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b43fee7f-f3f6-4b0e-8254-b504008c4f6a/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (29/10/2026)</title>
       <guid>8b883898-e448-42ba-b38a-b4f3009ed4f0</guid>
@@ -1938,40 +1946,6 @@ Shinedown - A Symptom of being Human
 Foreigner - Hot Blooded
 Rush - The Trees
 Danzig - How The Gods Kill</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (01/02/24 19u)</title>
-      <guid>5e31073d-38ca-4f78-8dd0-b109014d23dc</guid>
-      <pubDate>Thu, 01 Feb 2024 20:19:52 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-01-02-24-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5e31073d-38ca-4f78-8dd0-b109014d23dc/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/5e31073d-38ca-4f78-8dd0-b109014d23dc/image.jpg" />
-      <description>Belofte maakt schuld dus bij deze nog een weekje enkel Belgische Bands.
-
-Cowboys and Aliens - Find You Soon
-Cobra The Impaler - Colossal Gods
-Front 242 - RELIGION
-Morpheus - Magnetic
-Rise and Fall - The Noose
-Campus - Thrash Life
-Jason Rawhead - Low Tide
-Cult of Scarecrow - Sacrosanct Men
-Sixty-Nine - Contamination
-Mordkaul - Swarm of Illusions
-Beyond the Labyrinth - Haunted House
-Doodseskader - I Ask with My Mouth, I'll Take with My Fist
-Bones - Funerary Magic
-Suhrim - Mutilated Corpse
-Incult - Black Ritual
-Kludde - Verlaten 
-Virus Inhumanity - Darkness Came
-Verwilderd - Prophecy of Chaos
-Tim's Favourite - A Deeper Advantage
-Unite Against Society - Feared by All
-Mindwar - Still at War
-Predatory Void - Grovel
-Steegmoord - A Fine Day to Exit
-Oathbreaker - Immortals</description>
     </item>
   </channel>
 </rss>
