@@ -6,11 +6,19 @@
     <description>Staalhard episodes</description>
     <language>nl-be</language>
     <image>
-      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b43fee7f-f3f6-4b0e-8254-b504008c4f6a/image.jpg</url>
+      <url>https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9ad16093-2300-4681-bfcc-b50800b33d0d/image.jpg</url>
       <title>Staalhard</title>
       <link>https://www.willy.radio/programmas/staalhard</link>
     </image>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/b43fee7f-f3f6-4b0e-8254-b504008c4f6a/image.jpg" />
+    <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9ad16093-2300-4681-bfcc-b50800b33d0d/image.jpg" />
+    <item>
+      <title>Staalhard met Jasper De Petter (19 november 2026)</title>
+      <guid>9ad16093-2300-4681-bfcc-b50800b33d0d</guid>
+      <pubDate>Fri, 20 Nov 2026 11:03:32 +0000</pubDate>
+      <link>https://omny.fm/shows/staalhard/staalhard-met-jasper-de-petter-19-november-2026</link>
+      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9ad16093-2300-4681-bfcc-b50800b33d0d/audio.mp3" type="audio/mpeg" />
+      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/9ad16093-2300-4681-bfcc-b50800b33d0d/image.jpg" />
+    </item>
     <item>
       <title>Staalhard met Jasper De Petter (12 november 2026)</title>
       <guid>b43fee7f-f3f6-4b0e-8254-b504008c4f6a</guid>
@@ -1912,40 +1920,6 @@ Ronker - Slow Murder
 Fleddy Melculy - Pinker ( Live in Sin City)
 Chelsea Wolfe - Whispers In The Echo Chamber 
 Slayer - Postmortem</description>
-    </item>
-    <item>
-      <title>Staalhard met Andries Beckers (08/02 19u)</title>
-      <guid>70a005a3-af0c-403d-9aa0-b1100149b8c5</guid>
-      <pubDate>Thu, 08 Feb 2024 20:16:47 +0000</pubDate>
-      <link>https://omny.fm/shows/staalhard/staalhard-met-andries-beckers-08-02-19u</link>
-      <enclosure url="https://traffic.omny.fm/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/70a005a3-af0c-403d-9aa0-b1100149b8c5/audio.mp3" type="audio/mpeg" />
-      <itunes:image href="https://www.omnycontent.com/d/clips/c292b3ac-094e-4616-a956-a99800ed54e9/39eff9d5-43c6-4558-bb31-ac250092bf8c/70a005a3-af0c-403d-9aa0-b1100149b8c5/image.jpg" />
-      <description>Kerry King - Idle Hands
-Judas Priest - Crown of Horns
-Mutually Assured Destruction - Spirit Liberation
-Gamma Bomb - Speed Funeral
-ERRA - Cure
-The Halo Effect - Become Surrender
-Midnight - F.O.A.L.
-Goatsnake - Innocent
-One Morning Left - Emerald Dragon
-Bruce Dickinson - Rain on the Graves 
-Rawdriguez - Asylum Of The Arcane
-Soulfly - Cangaceiro
-Millhaven - Hellfire
-Life of Agony - My Eyes
-Blood Incantation - Slave Species of the Gods
-Persefone - One Word
-Origin - Disease Called Man
-Svalbard - To Wilt Beneath The Weight
-Zombi - The Post-Atomic Horror
-Minus 45 Degrees - Nail of Ice
-Gost - Widow Song 
-Therapy? - Unbeliever
-Shinedown - A Symptom of being Human
-Foreigner - Hot Blooded
-Rush - The Trees
-Danzig - How The Gods Kill</description>
     </item>
   </channel>
 </rss>
